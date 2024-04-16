@@ -4,7 +4,7 @@
 
  ~~~ 
 
-gcloud compute instances list
+`gcloud compute instances list`
 
 ~~~
 
@@ -14,7 +14,7 @@ gcloud compute instances list
 
  ~~~ 
 
-gcloud compute instances describe ***instance-name***. 
+`gcloud compute instances describe ***instance-name*** ` 
 
 ~~~
 
@@ -24,7 +24,7 @@ gcloud compute instances describe ***instance-name***.
 
  ~~~ 
 
-gcloud storage ls 
+`gcloud storage ls` 
 
 ~~~
 
@@ -34,7 +34,7 @@ gcloud storage ls
 
  ~~~ 
 
-iam.serviceAccounts.list
+`gcloud iam service-accounts list`
 
 ~~~
 
@@ -47,4 +47,4 @@ iam.serviceAccounts.list
 [Compute Engines](https://cloud.google.com/compute/docs/instances/get-list?hl=es-419#gcloud)
 [Service Accounts](https://cloud.google.com/iam/docs/understanding-roles#iam.serviceAccountViewer)
 
-
+- - -
