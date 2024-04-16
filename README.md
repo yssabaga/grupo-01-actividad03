@@ -4,7 +4,7 @@
 
  ~~~ 
 
-`gcloud compute instances list`
+gcloud compute instances list
 
 ~~~
 
@@ -14,7 +14,7 @@
 
  ~~~ 
 
-`gcloud compute instances describe ***instance-name*** ` 
+ gcloud compute instances describe "instance-name"  
 
 ~~~
 
@@ -24,7 +24,7 @@
 
  ~~~ 
 
-`gcloud storage ls` 
+gcloud storage ls 
 
 ~~~
 
@@ -34,7 +34,7 @@
 
  ~~~ 
 
-`gcloud iam service-accounts list`
+gcloud iam service-accounts list
 
 ~~~
 
