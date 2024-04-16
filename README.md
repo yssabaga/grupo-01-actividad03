@@ -14,7 +14,7 @@ gcloud compute instances list
 
  ~~~ 
 
-gcloud compute instances list. 
+gcloud compute instances describe ***instance-name***. 
 
 ~~~
 
